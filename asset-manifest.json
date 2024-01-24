@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/slice/static/css/main.125907af.css",
+    "main.js": "/slice/static/js/main.73a16d9c.js",
+    "static/media/Rectangle 236.png": "/slice/static/media/Rectangle 236.0e2677a1b5e88de81970.png",
+    "static/media/Placeholder (1).png": "/slice/static/media/Placeholder (1).7f31c23174c2cf8ef552.png",
+    "static/media/Placeholder (2).png": "/slice/static/media/Placeholder (2).daa345bda64c04029d17.png",
+    "static/media/Placeholder.png": "/slice/static/media/Placeholder.92422afeeb8f3d440fae.png",
+    "static/media/undraw_analytics_re_dkf8 1.png": "/slice/static/media/undraw_analytics_re_dkf8 1.15848273a48df469760f.png",
+    "static/media/undraw_page_not_found_re_e9o6 1.png": "/slice/static/media/undraw_page_not_found_re_e9o6 1.74765a6f19c19935b8dc.png",
+    "static/media/undraw_voting_nvu7 1.png": "/slice/static/media/undraw_voting_nvu7 1.ff6d3e0b961c6884f978.png",
+    "static/media/Group 1931.png": "/slice/static/media/Group 1931.9d0a4e3ad8d33741f4b4.png",
+    "static/media/Group 1930.png": "/slice/static/media/Group 1930.f4f16e6a1ae1fcc1d4ad.png",
+    "static/media/thrift.png": "/slice/static/media/thrift.26207d596a502c2653b0.png",
+    "static/media/location.png": "/slice/static/media/location.1c333943dbaea0b8570a.png",
+    "static/media/healthy.png": "/slice/static/media/healthy.7bae43659d6383df45d6.png",
+    "static/media/box.png": "/slice/static/media/box.b4fc4bd1b557208c7f96.png",
+    "static/media/designer.png": "/slice/static/media/designer.622f4d1635eab8530986.png",
+    "static/media/undraw_online_ad_re_ol62 1.png": "/slice/static/media/undraw_online_ad_re_ol62 1.dd2bce3875f6257c732a.png",
+    "static/media/Group 1309.png": "/slice/static/media/Group 1309.73a3a91130b96eded034.png",
+    "index.html": "/slice/index.html",
+    "main.125907af.css.map": "/slice/static/css/main.125907af.css.map",
+    "main.73a16d9c.js.map": "/slice/static/js/main.73a16d9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.125907af.css",
+    "static/js/main.73a16d9c.js"
+  ]
+}
